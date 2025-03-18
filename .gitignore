@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración local
+.env
+.vscode/
+.idea/
+
+# Archivos de distribución y build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Archivos de pruebas y coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
